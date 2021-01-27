@@ -50,10 +50,11 @@ Controls
 - s --> pause 
 - r--> randomize
 
-Source code
+Links
 ...........
 
-https://github.com/Oscarozo/GameofLife.git
+- https://github.com/Oscarozo/LifeGame.git
+- https://pypi.org/project/LifeGame/ 
 
 Contact
 .......
