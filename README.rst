@@ -3,6 +3,14 @@ Conway's game of life
 
 Conway's Game of Life implemention with pygame
 
+Screenshots
+..........
+
+.. image:: screenshots/1.png 
+
+
+.. image:: screenshots/2.png 
+
 Installation
 ............
 

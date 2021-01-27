@@ -1,5 +1,4 @@
 dist/
-screenshots/
 *.egg-info
 *.pyc
 __pycache__
