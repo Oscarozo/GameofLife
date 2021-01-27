@@ -10,7 +10,7 @@ def readme_contents():
     return file_contents
 setup(
     name='LifeGame',
-    version='1.0.2',
+    version='1.0.3',
     description='Conway\'s Game of Life in Python.',
     long_description=readme_contents(),
     url='https://github.com/Oscarozo/GameofLife',
