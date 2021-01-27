@@ -1,0 +1,8 @@
+.gitingnore
+dist/
+*.egg-info
+*.pyc
+__pycache__
+.idea
+*.iml
+.vim/
