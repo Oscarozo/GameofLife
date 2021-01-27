@@ -16,7 +16,7 @@ Installation
 
 Install with pip::
 
-  pip install GameofLife
+  pip install LifeGame
 
 Install from source::
 
