@@ -4,7 +4,7 @@ Conway's game of life
 Conway's Game of Life implemention with pygame
 
 Screenshots
-..........
+............
 
 .. image:: screenshots/1.png 
 
@@ -12,7 +12,7 @@ Screenshots
 .. image:: screenshots/2.png 
 
 Installation
-............
+.............
 
 Install with pip::
 
@@ -24,7 +24,7 @@ Install from source::
 
 
 Running
-.......
+........
 
 Run via launch script installed with pip package::
   
@@ -44,20 +44,20 @@ To import the class in your own code::
   LifeGme().run()
 
 Controls
-........
+.........
 
 - q --> quit
 - s --> pause 
 - r--> randomize
 
 Links
-...........
+......
 
 - https://github.com/Oscarozo/LifeGame.git
 - https://pypi.org/project/LifeGame/ 
 
 Contact
-.......
+........
 
 Oscar Ozorio <osvaldo15963@fpuna.edu.py>
 
